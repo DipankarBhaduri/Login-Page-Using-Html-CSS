@@ -1,0 +1,75 @@
+
+body {
+    background: url("https://images.pexels.com/photos/1229861/pexels-photo-1229861.jpeg") ;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.wrapper {
+    width: 350px ;
+    
+    margin: 10% auto ;
+    padding: 10px;
+    background-color:rgba(0,0,0,0.23) ;
+    border-radius: 20px;
+    box-shadow: 0 0 17px rgb(223, 144, 144);
+}
+
+.heading {
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.heading h1 {
+    color: white;
+    font-size: 45px;
+    font-family: serif;
+}
+
+from{
+    text-align: center ;
+}
+
+button{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+from input  {
+    width: 300px ;
+    height : 40px ;
+    margin-bottom:  30px;
+    border: none ;
+    padding-left: 5px;
+    margin-top: 10px;
+    box-sizing: border-box;
+    font-size: 15px;
+    outline: none;
+    border-radius: 13px;
+
+}
+
+from i {
+    position: absolute ;
+    left : 15px ;
+    color :#333 ;
+    font-size : 17px;
+    top:2px ;
+
+}
+
+from input {
+    padding-left: 40px;
+}
+
+text {
+    font-size: 10px;
+}
+
+button{
+    background-color: skyblue;
+    height: 25px;
+    width: 70px;
+}
